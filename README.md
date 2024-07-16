@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://your-image-link.com/banner.jpg)
+
 
 ## About Me
 Hi! I'm NYUMBAYIRE Laurent, a passionate developer with expertise in ...Frontend development, mobile development,Data science and  Machine Learning
