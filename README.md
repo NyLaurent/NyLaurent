@@ -3,7 +3,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nyumbayire Laurent</h1>
 <h3 align="center">I am a full-stack developer with a specialization in frontend development</h3>
-<img align="right" width="400" src="https://i.pinimg.com/originals/88/93/18/889318bbc175745c15dcaaf96f649056.gif" alt="">
+<img align="right" width="400" height="200" src="https://i.pinimg.com/originals/88/93/18/889318bbc175745c15dcaaf96f649056.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nylaurent&label=Profile%20views&color=0e75b6&style=flat" alt="nylaurent" /> </p>
 
