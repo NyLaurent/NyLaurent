@@ -5,7 +5,6 @@
 <h3 align="center">I am a full-stack developer with a specialization in frontend development</h3><br><br>
 
 
-<img src="https://cdn.dribbble.com/users/7162/screenshots/1888419/open-uri20150119-12-2b4861"/>
 
 
 
