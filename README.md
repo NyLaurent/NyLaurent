@@ -1,19 +1,31 @@
-<h1 align="center">Hi 👋, I'm Nyumbayire Laurent</h1>
-<h3 align="center">I am a <span id="typed-text"></span></h3><br><br>
+<h1 align="left">Hi 👋, I'm Nyumbayire Laurent</h1>
+<h3 align="left">I am a full stack developer with a specialisation in:</h3><img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Development!++;Mobile+Development!+;Data+science!+;Machine+Learning" />
+ <br>
 
-- 🌱 I’m currently learning **React Native, NEXTJs, Python, DS and ML**
+<div align="left">
+  <li>
+    🌱 I’m currently learning **React Native, NEXTJs, Python, DS and ML**
 
-- 👯 I’m looking to collaborate on **any Project**
+  </li>
+  
+ <li>
+   👯 I’m looking to collaborate on **any Project available**
+ </li>
 
-- 💬 Ask me about **Android, MERN, AI**
+ <li>💬 Ask me about **Android, MERN, AI**</li>
 
-- 📫 How to reach me **laulanyumbayire@gmail.com**
+ <li>📫 How to reach me **laulanyumbayire@gmail.com**</li>
 
-- ⚡ Fun fact **I can say 'Hello World' in 10 different programming languages**
-- 🤣 My code runs faster on my birthday 🎂.
+ <li>⚡ Fun fact **I can say 'Hello World' in 10 different programming languages**</li>
+<li> 🤣 My code runs faster on my birthday 🎂</li>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+</div><br>
+
+ 
+<h3>💬Connect with me🗨️:</h3>
+<div align="left>
+  
+  <p align="left">
   <a href="https://www.linkedin.com/in/nyumbayire-laurent-b11251299" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nyumbayire laurent" height="30" width="40" />
   </a>
@@ -24,8 +36,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lau_lanez" height="30" width="40" />
   </a>
 </p>
+</div><br>
 
-<h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">🔍Languages and Tools🔦:</h3>
+<div>
+ 
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40" />
@@ -123,11 +138,5 @@
 </p>
 
 
-<script>
-  var typed = new Typed('#typed-text', {
-    strings: ["Developer", "Data Scientist", "Designer"],
-    typeSpeed: 100,
-    backSpeed: 50,
-    loop: true
-  });
-</script>
+</div>
+
