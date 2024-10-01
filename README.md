@@ -4,7 +4,7 @@
 
 <div align="left">
   <li>
-    🌱 I’m currently learning **Flutter, Python, DS and ML**
+    🌱 I’m currently learning **Java,ML**
 
   </li>
   
