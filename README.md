@@ -6,7 +6,7 @@
  
  <li>Check out my resume <a href="https://docs.google.com/document/d/1nRokXKy6zWlGdXigLdMGb_4tLL_idzMOVU0JCkNmHwk/edit?usp=sharing">Resume</a></li>
   <li>
-    🌱 I’m currently learning **Java,ML**
+    🌱 I’m currently learning **Java,ML, Flutter**
 
   </li>
   
