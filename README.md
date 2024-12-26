@@ -15,7 +15,7 @@
    👯 I’m looking to collaborate on **any Project available**
  </li>
 
- <li>💬 Ask me about **Android, MERN, AI**</li>
+ <li>💬 Ask me about **Web,Mobile dev**</li>
 
  <li>📫 How to reach me **laulanyumbayire@gmail.com**</li>
 
