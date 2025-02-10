@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Nyumbayire Laurent</h1>
 <!-- <h2><a href="https://laurent-nyumbayire.vercel.app/">Portfolio</a></h2> -->
-<h3 align="left">I am a full stack developer with a specialisation in:</h3><img  src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Frontend+Development!++;Mobile+Development!+;Data+science!+;Machine+Learning" />
+<h3 align="left">I am a full stack developer</h3>
  <br>
 
 <div align="left">
