@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Nyumbayire Laurent</h1>
 <!-- <h2><a href="https://laurent-nyumbayire.vercel.app/">Portfolio</a></h2> -->
 <h3 align="left" style="color: #2D3748; font-size: 24px; font-weight: 600; letter-spacing: 0.05em; padding: 20px 0; border-bottom: 2px solid #4A5568;">
-   👨‍💻 Digital Craftsman | Full Stack Developer 
+   👨‍💻 Tech Maestro | Full Stack Developer 
    <br>
 </h3>
 
