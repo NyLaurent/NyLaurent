@@ -8,10 +8,7 @@
 <div align="left">
  
 
-  <li>
-    🌱 I’m currently building at <a href="https://www.linkedin.com/company/106298262/admin/dashboard/">Idee8</a> 
-
-  </li>
+  
    <li>💬 Ask me about **Web,Mobile dev**</li>
  <li>📫 I reply swiftly—feel free to reach out anytime! <a href="mailto:laulanyumbayire@gmail.com">laulanyumbayire@gmail.com</a></li>
 <li> 🤣 Fun fact ** My code runs faster on my birthday 🎂</li>
