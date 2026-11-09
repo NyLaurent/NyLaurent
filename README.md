@@ -27,8 +27,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lau_lanez" height="30" width="40" />
   </a>
 </p>
-<p>"I’m not just coding, I’m inventing the future, one line at a time."  <span><br/></span> 
- – Laurent 🤖💥</p>
+
 </div><br>
 
 
